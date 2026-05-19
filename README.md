@@ -4,4 +4,4 @@ UAV-Based Pipeline Leakage Detection via Acoustics with Owl Auditory-Inspired OP
 Dataset Access
 Due to GitHub file size limitations, the experimental acoustic datasets are available via Baidu Netdisk:
 https://pan.baidu.com/s/1zcRMefl3u9jn1Pag4l6daA?pwd=rw36
-Note: Contains both dynamic density coefficient samples requiring splicing/modulation.
+Note: Contains dynamic density coefficient samples requiring splicing/modulation.
